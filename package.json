@@ -1,0 +1,25 @@
+{
+  "name": "backend-tendencias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddyheredia4/backend-tendencias.git"
+  },
+  "keywords": [
+    "tendencias"
+  ],
+  "author": "Freddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddyheredia4/backend-tendencias/issues"
+  },
+  "homepage": "https://github.com/freddyheredia4/backend-tendencias#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
